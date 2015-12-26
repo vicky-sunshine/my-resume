@@ -1,0 +1,102 @@
+{
+  "basics": {
+    "name": "Chi-Hsuan Li",
+    "label": "Software Engineer",
+    "picture": "",
+    "email": "lch82327@gmail.com",
+    "website": "https://vicky-sunshine.github.io/",
+    "summary": "Now I'm majored in computer science at National Tsing Hua University. My current research is focused on SDN/Openflow and use Ryu to develop some interesting network applications. I also interested in open source projects about web development.",
+    "location": {
+      "address": "",
+      "postalCode": "",
+      "city": "",
+      "countryCode": "Taiwan",
+      "region": "Hsinchu"
+    },
+    "profiles": [
+      {
+        "network": "GitHub",
+        "username": "vicky-sunshine",
+        "url": "https://github.com/vicky-sunshine"
+      },
+      {
+        "network": "LinkedIn",
+        "username": "lch82327",
+        "url": "https://www.linkedin.com/in/lch82327"
+      }
+    ]
+  },
+  "work": [],
+  "volunteer": [],
+  "education": [
+    {
+      "institution": "National Tsing Hua University",
+      "area": "Undergraduate Program of EECS",
+      "studyType": "Bachelor",
+      "startDate": "2011-09-01",
+      "endDate": "2015-06-30",
+      "gpa": "",
+      "courses": []
+    },
+    {
+      "institution": "Tsing Hua University",
+      "area": "Computer Science",
+      "studyType": "Exchange",
+      "startDate": "2014-09-18",
+      "endDate": "2014-01-25",
+      "gpa": "",
+      "courses": []
+    },
+    {
+      "institution": "National Tsing Hua University",
+      "area": "Computer Science",
+      "studyType": "Master",
+      "startDate": "2015-09-01",
+      "endDate": "2017-06-30",
+      "gpa": "",
+      "courses": [
+        "Network Security",
+        "Service Oriented Architecture"
+      ]
+    }
+  ],
+  "awards": [
+    {
+      "title": "Best Briefing Award",
+      "date": "2015-11-15",
+      "awarder": "Hackathon Taiwan 13th",
+      "summary": "Facechats: Let you can talk to a random facebook user anonymously and make new friends!"
+    }
+  ],
+  "publications": [],
+  "skills": [
+    {
+      "name": "Programming langauge",
+      "level": "",
+      "keywords": [
+        "C",
+        "Python",
+        "Ruby",
+        "Javascrpt"
+      ]
+    },
+    {
+      "name": "Version Control",
+      "level": "",
+      "keywords": [
+        "Git"
+      ]
+    }
+  ],
+  "languages": [
+    {
+      "language": "Chinese",
+      "fluency": "Native"
+    },
+    {
+      "language": "English",
+      "fluency": "Conversant"
+    }
+  ],
+  "references": []
+}
