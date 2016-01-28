@@ -5,7 +5,7 @@
 
 ------
 ### About {#about}
-Now I'm majored in computer science at National Tsing Hua University. My current research is focused on SDN/Openflow and use Ryu to develop some interesting network applications. I also interested in open source projects about web development.
+Now I'm majored in computer science at National Tsing Hua University. My current research is focused on SDN/Openflow and use Ryu to develop some interesting network applications. I'm also interested in open source projects about web development.
 
 ------
 
