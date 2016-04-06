@@ -6,19 +6,19 @@
 ------
 
 ### About {#about}
-I'm majored in computer science at National Tsing Hua University. My current
-research is focused on SDN/Openflow and use Ryu to develop some interesting
+I'm majored in Computer Science at National Tsing Hua University. I currently
+research on SDN/OpenFlow and use Ryu to develop some interesting
 network applications. I'm also interested in open source projects about web
 development.
 
 ------
 
 ### Profile {#profile}
-* Github
-  : [github.com/vicky-sunshine](https://github.com/vicky-sunshine)
+Github
+  : *[github.com/vicky-sunshine](https://github.com/vicky-sunshine)*
 
-* LinkedIn
-  : [tw.linkedin.com/in/lch82327](https://tw.linkedin.com/in/lch82327)
+LinkedIn
+  : *[tw.linkedin.com/in/lch82327](https://tw.linkedin.com/in/lch82327)*
 
 ------
 
@@ -32,8 +32,7 @@ Kiwi Course
   Work with Ruby, Javascript, Sinatra, Slim, Bootstrap, Highcharts, Heroku,
   Disqus, AWS DynamoDB, AWS SQS, IronWorker, Memcachier.
 
-  Project Website URL: https://kiwi-orchard.herokuapp.com/
-  GitHub Organization URL: https://github.com/Kiwi-Learn
+  Project Website: https://kiwi-orchard.herokuapp.com/
 
 Weather Scout
 : __2016__
@@ -41,9 +40,11 @@ Weather Scout
   Use Oga for parsing HTML and Thor for building CLI.
   Use Minitest, Webmock and Vcr for testing.
 
+  GitHub: https://github.com/vicky-sunshine/weather-scout-scraper
+
 -----
 
-### Technologies Skills {#technologies}
+### Skills {#skills}
 
 * Ruby
   : Sinatra, web/api server design
@@ -51,22 +52,18 @@ Weather Scout
   : Have experience in building ruby gems
 
 * Agile Development
-  : Continuous Integration and Continuous Delivery
+  : Continuous Integration
+  : Continuous Delivery
   : Familiar with Travis CI and CodeShip linked to Heroku for CD
   : BDD-style testing
-
-* Web Dev. Skills
-  : Front-end: CSS, HTML, Slim, Bootstrap
-  : Back-end: Sinatra, NoSQL
 
 * Version Control
   : Git
   : GitHub. Heavily follow the GitHub Flow
 
-* Other Programming Skills
-  : Python
-  : Javascript
-  : C
+* Other Languages
+  : Python, C
+  : CSS, HTML, Javascript
 
 ------
 
